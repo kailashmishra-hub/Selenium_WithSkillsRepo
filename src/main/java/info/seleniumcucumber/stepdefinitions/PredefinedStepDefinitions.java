@@ -443,6 +443,7 @@ public class PredefinedStepDefinitions implements BaseTest {
 		clickObj.click(type, accessName);
 		click_forcefully(type, accessName);
 		System.out.println("I am on Elelemt page");
+		System.out.println("I am Boss");
 	}
 	
 	//Forcefully click on element
